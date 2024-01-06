@@ -1,6 +1,6 @@
-# Tarcísio Lima Ferreira
+# Hi there 👋! I'm Tarcísio Lima Ferreira
 
-I am a Computer Engineer from the Federal University of Alagoas (UFAL). I'm currently studying for a master's degree in Informatics at UFAL with an emphasis on Artificial Intelligence applied to health.
+I'm a Computer Engineer from the Federal University of Alagoas (UFAL). I'm currently studying for a master's degree in Informatics at UFAL with an emphasis on Artificial Intelligence applied to health.
 
 ### Connect with me
 
@@ -44,4 +44,4 @@ I am a Computer Engineer from the Federal University of Alagoas (UFAL). I'm curr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarcisiolf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarcisiolf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Teste](https://github-readme-streak-stats.herokuapp.com/?user=tarcisiolf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarcisiolf&theme=dark)](https://git.io/streak-stats)
